@@ -8,4 +8,4 @@ Insert values into the DOM.
 Show a spinner right before loading the countdown.
 Show the coming year in the background.
 
-Preview landing page here: 
+Preview landing page here: https://techiemokhele.github.io/countdown-to-new-year-landing-page/
