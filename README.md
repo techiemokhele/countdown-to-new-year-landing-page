@@ -9,3 +9,5 @@ Show a spinner right before loading the countdown.
 Show the coming year in the background.
 
 Preview landing page here: https://techiemokhele.github.io/countdown-to-new-year-landing-page/
+
+![image](https://user-images.githubusercontent.com/67394147/131591910-7fc2e4ed-d167-4152-90ed-8fbd877b133f.png)
